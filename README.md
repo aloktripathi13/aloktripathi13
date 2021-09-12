@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aloktripathi13
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning ML using Python
 - 💞️ I’m looking to collaborate on Data Science related projects
 - 📫 How to reach me.. ALOKTRIPATHI.13@GMAIL.COM
 
